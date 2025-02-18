@@ -7,7 +7,7 @@
 - 📈 Apaixonada por Dados🎲|Inteligência Artificial🧠|Robotica🤖
 
 
-
+<hr>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-nascimento-de-souza-908a6032a)
