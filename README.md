@@ -2,7 +2,7 @@
 
 
 - 💻 Cientista de dados
-- 📚 Estudando dados e sempre entusiasmada em me aprodundar mais
+- 📚 Estudando dados e sempre em busca de me aprodundar mais
 - 🎓 Graduada em Analise e Desenvolvimento de Sistemas
 - 📈 Apaixonada por Dados🎲|Inteligência Artificial🧠|Robotica🤖
 
