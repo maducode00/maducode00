@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maria Eduarda
 
 
-- 💻 Data Engineer
+- 💻 Analista de dados
 - 📚 Estudando dados e sempre em busca de me aprodundar mais
 - 🎓 Graduada em Analise e Desenvolvimento de Sistemas
 - 📈 Apaixonada por Dados🎲|Inteligência Artificial🧠|Robotica🤖
