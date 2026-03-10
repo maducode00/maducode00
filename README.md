@@ -1,28 +1,51 @@
-## Olá! Eu sou a Maria Eduarda
+# 👋 Olá, eu sou o Maria Eduarda!
 
-
-- 💻 Analista de dados
-- 📚 Estudando dados e sempre em busca de me aprodundar mais
-- 🎓 Graduada em Analise e Desenvolvimento de Sistemas
-- 📈 Apaixonada por Dados🎲|Inteligência Artificial🧠|Robotica🤖
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-nascimento-de-souza-908a6032a)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/madu.code)
-
-<hr>
-
-
-## Tecnologias que eu uso no meu dia
-
-<div style = "display: inline_block"<br/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img alt="TENSORFLOW" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-</div>
 <div align="center">
-  <a href="https://github.com/maducode00">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maducode00&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducode00&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+
+  <!-- Logo animado -->
+
+ <img 
+    src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=800&lines=Analista e Cientista de Dados +%F0%9F%91%A8%F0%9F%92%BB;Engenheiro+de+IA+%F0%9F%A4%96;Apaixonado+por+criar+solu%C3%A7%C3%B5es+para+todos+%F0%9F%8C%8D;Entusiasta+de+IA+e+Machine+Learning+%F0%9F%94%AC;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" 
+  />
 </div>
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de *Engenharia de Dados*, apaixonada por tecnologia e pela transformação de dados em informação útil. Atualmente estudo Python, SQL, pipelines de dados e cloud computing, buscando desenvolver projetos práticos que envolvam coleta, tratamento e organização de dados.
+
+Meu objetivo é evoluir continuamente na área de dados, construindo soluções que automatizem processos e apoiem decisões baseadas em dados.
+Tenho foco em:
+
+* Engenharia de dados
+* 🧠 Machine Learning 
+* ☁️ Cloud (Azure / GCP)
+* 🛠️ Python, SQL
+
+
+## 🧰 Tecnologias e Ferramentas
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+</div>
+
+
+## 🌐 Meus contatos
+
+🔗 **LinkedIn:** *www.linkedin.com/in/maria-eduarda-nascimento-980579372*
+
+📧 **Email:** *mariaeduardadc2022@gmail.com*
+
+---
+
