@@ -3,7 +3,7 @@
 <div align="center">
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Dados+%F0%9F%93%8A;Apaixonada+por+dados+e+tecnologia+%F0%9F%92%BB;Construindo+pipelines+de+dados+%F0%9F%9A%80;Explorando+Cloud+e+Machine+Learning+%E2%98%81%EF%B8%8F;Sempre+aprendendo+e+evoluindo+%F0%9F%93%9A"/>
+src="https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=28&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Dados+%F0%9F%93%8A;Apaixonada+por+dados+e+tecnologia+%F0%9F%92%BB;Construindo+pipelines+de+dados+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%93%9A"/>
 
 </div>
 
@@ -17,8 +17,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 - Python para processamento de dados
 - SQL e modelagem de dados
-- Pipelines de dados
-- Cloud Computing
+- Pipelines de dados (ETL)
 - Automação de processos
 
 Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que automatizem fluxos de dados e apoiem decisões estratégicas.
@@ -28,7 +27,6 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 # 🎯 Áreas de interesse
 
 - 📊 Engenharia de Dados  
-- ☁️ Cloud Computing  
 - 🔄 Automação de processos  
 - 🧠 Machine Learning  
 - 🗄️ Arquitetura de dados  
@@ -37,29 +35,21 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 # 🧰 Tecnologias e Ferramentas
 
-## 🧰 Tecnologias e Ferramentas
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Lake-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Warehouse-003B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Modelagem%20de%20Dados-6A1B9A?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -77,7 +67,15 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyonight&area=true&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -95,7 +93,6 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 - Engenharia de Dados
 - Pipelines de dados
-- Cloud Computing
 - Modelagem de dados
 - Processamento de dados com Python
 
