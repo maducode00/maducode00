@@ -57,7 +57,7 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 <div align="center">
 
-![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeduarda-dataeng&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -67,15 +67,15 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduarda-dataeng&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyonight&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaeduarda-dataeng&theme=tokyonight&area=true&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github.com/mariaeduarda-dataeng/mariaeduarda-dataeng/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -85,7 +85,7 @@ Meu objetivo é evoluir na área de **Data Engineering**, criando soluções que
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda-dataeng&layout=compact&theme=tokyonight)
 
 </div>
 
